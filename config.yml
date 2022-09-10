@@ -1,0 +1,17 @@
+os:
+  editCommand: 'nvim' # as an example
+gui:
+  showIcons: true
+  theme:
+    activeBorderColor:
+      - '#50ffa0'
+      - bold
+    inactiveBorderColor:
+      - '#6A5ACD'
+      # - white
+    selectedLineBgColor:
+      - '#008080'
+    selectedRangeBgColor:
+      - default
+    optionsTextColor:
+      - '#CD5C5C'
