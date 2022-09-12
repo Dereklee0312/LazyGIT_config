@@ -1,9 +1,10 @@
 lastupdatecheck: 1662737957
 recentrepos:
 - /home/derek_lee/.config/lazygit
-- /home/derek_lee/custom_chad
-- /home/derek_lee/.config/nvim
 - /home/derek_lee/Y1_Sem2/LEENENTHAT_Derek20820343_ISErepo
+- /home/derek_lee/.config/nvim
+- /home/derek_lee/Self_study/leetcode
+- /home/derek_lee/custom_chad
 - /home/derek_lee/Self_study/Git/Ex1_Shopping
 - /home/derek_lee/Projects/manga_py
 startuppopupversion: 5
