@@ -15,7 +15,3 @@ gui:
       - default
     optionsTextColor:
       - '#CD5C5C'
-git:
-  paging:
-    colorArg: always
-    pager: diff-so-fancy
