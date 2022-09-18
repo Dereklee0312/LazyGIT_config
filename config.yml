@@ -10,7 +10,7 @@ gui:
       - '#6A5ACD'
       # - white
     selectedLineBgColor:
-      - '#008080'
+      - '#000000'
     selectedRangeBgColor:
       - default
     optionsTextColor:
