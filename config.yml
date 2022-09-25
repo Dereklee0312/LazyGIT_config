@@ -8,7 +8,6 @@ gui:
       - bold
     inactiveBorderColor:
       - '#6A5ACD'
-      # - white
     selectedLineBgColor:
       - '#000000'
     selectedRangeBgColor:
