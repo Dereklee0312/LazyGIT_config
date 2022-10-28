@@ -9,7 +9,7 @@ gui:
     inactiveBorderColor:
       - '#6A5ACD'
     selectedLineBgColor:
-      - '#000000'
+      - '#4b4b4b'
     selectedRangeBgColor:
       - default
     optionsTextColor:
